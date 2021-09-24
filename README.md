@@ -1,3 +1,13 @@
+# Importante
+
+Após clonar o repositório local, atualizar projeto local rodando comando:
+### `yarn` ou `yarn install` 
+Também é importante instalar json-server pode ser feito utilizando o comando:
+### `yarn add json-server` 
+É possivel rodar o mesmo utilizando o comando 
+### `npx json-server --watch products.json --port 3004`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
