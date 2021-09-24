@@ -1,0 +1,26 @@
+.modal {
+  width: 80%;
+  height: 80%;
+  top: 9rem;
+  left: 8rem;
+  z-index: 10;
+  position: absolute;
+  background-color: rgba(54, 62, 61, 0.349);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.icon-clear {
+  font-size: 3rem !important;
+  margin-bottom: 45rem;
+}
+
+.content-description {
+  border-style: solid;
+  border-width: 0.1rem;
+  border-color: #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}

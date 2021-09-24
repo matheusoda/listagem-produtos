@@ -1,0 +1,37 @@
+.title {
+  padding-bottom: 1rem;
+}
+
+.card-content {
+  display: flex;
+}
+
+.card-media {
+  max-width: 150px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+}
+
+.content-text {
+  text-align: left;
+  padding-left: 2.5rem;
+  padding-right: 0.5rem;
+  width: 40rem;
+}
+
+.card-info {
+  display: flex;
+}
+
+.button-add {
+  font-size: 8rem !important;
+  max-height: 5rem;
+  margin-top: 2rem !important;
+}
+
+.container {
+  max-width: 850px;
+  height: 11rem;
+  margin: 0.4rem auto;
+}

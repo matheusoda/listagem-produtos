@@ -1,0 +1,19 @@
+.header {
+  background-color: #363e3e;
+  color: #fff;
+  padding: 1.5rem;
+  display: flex;
+  /* justify-content: center; */
+  width: 100%;
+}
+
+.icon-cart {
+  width: 100%;
+  font-size: 3.5rem !important;
+  margin-left: 24rem;
+  /* padding-right: 4rem; */
+}
+
+.title {
+  margin-left: 30rem;
+}
